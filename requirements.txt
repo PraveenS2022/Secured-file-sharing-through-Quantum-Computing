@@ -1,0 +1,4 @@
+pycryptodome
+qiskit
+pip install qiskit-aer
+from qiskit_aer import Aer
