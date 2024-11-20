@@ -1,7 +1,16 @@
 **Secured File Sharing Through Quantum Computing**
 
 **Overview**
-This project implements a secure file-sharing system that leverages **Advanced Encryption Standard (AES)** and **Quantum Cryptography** to ensure resilience against classical and quantum-based attacks. By integrating **Quantum Key Distribution (QKD)** and **steganography**, the system facilitates secure key exchange and covert data transmission. It utilizes **AWS Cloud Storage** for scalable and remote access while maintaining data integrity, making it suitable for critical industries like finance, healthcare, and defense.  
+This project implements a secure file-sharing system that leverages **Advanced Encryption Standard (AES)** and **Quantum Cryptography** to ensure resilience against classical and quantum-based attacks. By integrating **Quantum Key Distribution (QKD)** and **steganography**, the system facilitates secure key exchange and covert data transmission. It utilizes **AWS Cloud Storage** for scalable and remote access while maintaining data integrity, making it suitable for critical industries like finance, healthcare, and defense.
+
+**Output**
+![1](https://github.com/user-attachments/assets/f25a8a72-7f7c-4f04-8307-5be7f0473150)
+![2](https://github.com/user-attachments/assets/c32e2fe3-57b2-4f36-b0d3-8b0e9d2651d6)
+![3](https://github.com/user-attachments/assets/5dc0fb7f-589d-43d1-a9c8-39fd72020f5f)
+![4](https://github.com/user-attachments/assets/15a5181f-9e05-4fea-a1d0-9352a1da404d)
+![5](https://github.com/user-attachments/assets/753ee364-f68e-45e0-92d4-06305db235c5)
+
+
 
 **Features**
 - **Quantum Key Distribution (QKD):** Ensures secure key exchange with quantum cryptographic techniques.  
