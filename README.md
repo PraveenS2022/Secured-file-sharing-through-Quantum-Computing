@@ -98,9 +98,4 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the [MIT License](LICENSE).
 
 ## **Acknowledgments**
-- **Quantum Computing Libraries/Resources** (if applicable)  
-- Tutorials and communities that supported the development.  
-
----
-
-This structure ensures clarity, easy navigation, and sufficient detail for contributors and users to understand and use your project effectively.
+- **Quantum Computing Libraries/Resources** (if applicable).
